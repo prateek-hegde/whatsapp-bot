@@ -17,7 +17,7 @@ const msgList = [
     'this year',
     'hpy new yr',
     'hpy nw year',
-    '2022'
+    '2023'
 ];
 const replies = [
     'Thank you :) wish you the same',
